@@ -64,7 +64,7 @@ a passionate junior full-stack developer excited about building impactful web ap
   <summary>Project 1</summary>
   <br>
   <p align="center">
-    <iframe src="https://giphy.com/embed/scZPhLqaVOM1qG4lT9" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-monday-computer-laptop-scZPhLqaVOM1qG4lT9">via GIPHY</a></p>
+    <img src="https://giphy.com/embed/scZPhLqaVOM1qG4lT9" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></img>
   <h2>https://www.masterymate.me</h2>
 </details>
 
