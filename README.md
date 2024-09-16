@@ -64,7 +64,7 @@ a passionate junior full-stack developer excited about building impactful web ap
   <summary>Project 1</summary>
   <br>
   <p align="center">
-    <img src="https://giphy.com/embed/scZPhLqaVOM1qG4lT9" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+    <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" alt="Project 1">
   <h2>https://www.masterymate.me</h2>
 </details>
 
