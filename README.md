@@ -63,13 +63,12 @@ a passionate junior full-stack developer excited about building impactful web ap
 <details>
   <summary>Project 1</summary>
   <br>
-  <p align="center">
-    <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" alt="Project 1">
-  <h2>https://www.masterymate.me</h2>
+  <p align="center"><img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" alt="Project 1"></p>
+  <a src="https://www.masterymate.me" target="_blank">MasteryMate</a>
 </details>
 
 ---
 
 <!-- Contact Section -->
 ## Let's Contact me!
-I'm always open to new opportunities and collaborations. If you'd like to discuss a project, have any questions, or just want to say hi, feel free to reach out to me via nnevedm@gmail.com or via my <a href="https://www.linkedin.com/in/nicolas-nève" src="(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinprofile)" target="_blank">LinkedIn</a>
+I'm always open to new opportunities and collaborations. If you'd like to discuss a project, have any questions, or just want to say hi, feel free to reach out to me via nnevedm@gmail.com or via my <a href="https://www.linkedin.com/in/nicolas-nève" target="_blank" src="(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinprofile)">LinkedIn</a>
